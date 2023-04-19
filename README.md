@@ -18,7 +18,7 @@ BPC's small cities include the 203 less populated (relative to BPC's large citie
 
 <H2> BPC Large Cities' Rankings: Interactive Figure </H2> 
  
- <iframe src="https://public.tableau.com/views/BPC-Small-v1/BPC-GainDrop-Small?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
+ <iframe src="https://public.tableau.com/views/BPC-Small-v1/CityRanks-Small?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
  
 To compare cities across the BPC's 12 components or explore gains and drops in small cities' rankings compared to previous year, click on the black buttons on the bottom of the figure.
     <Br>
