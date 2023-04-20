@@ -16,7 +16,7 @@
  
 BPC's small cities include the 203 less populated (relative to BPC's large cities) US metropolitan areas. As large cities, small cities are further divided into five tiers based on their relative performance, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. The interactive figure below shows small cities' rankings on the 12 components of the index.  
 
-<H2> BPC Large Cities' Rankings: Interactive Figure </H2> 
+<H2> BPC Small Cities' Rankings: Interactive Figure </H2> 
  
  <iframe src="https://public.tableau.com/views/BPC-Small-v1/CityRanks-Small?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
  
